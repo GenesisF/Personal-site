@@ -9,6 +9,7 @@ buttons "ABOUT ME" and "PROJECTS" if you click projects you will navigate to the
 
 ## Deploy Site URL
 
+[surge deployment](http://genesisf.surge.sh/)
 
 ## Wire/Frimework
 About me: 
