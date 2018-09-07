@@ -1,0 +1,45 @@
+a {
+    text-decoration: none;
+}
+body {
+    padding-top: 42px;
+}
+
+
+header {
+
+   background-color: black;
+   position: fixed;
+   top:0px;
+   left: 0px;
+   right: 0px;
+   height: 42px;
+   display: flex;
+   align-items: center;
+
+}
+
+header nav a {
+
+    color: white;
+    margin-left: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+
+header nav a:hover {
+
+    color: #999999;
+    
+}
+
+
+    
+.container {
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    
+}
