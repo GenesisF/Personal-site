@@ -11,4 +11,8 @@ buttons "ABOUT ME" and "PROJECTS" if you click projects you will navigate to the
 
 ##Wire/Frimework
 About me: 
-![alt text](./IMG-8390.jpg "Logo Title Text 1")
+![alt text](./IMG-8390.jpg "About me wireframe")
+
+Projects:
+![alt text](./IMG-8391.jpg "Projects wireframe")
+
